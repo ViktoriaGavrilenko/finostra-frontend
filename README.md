@@ -29,7 +29,7 @@ Finostra is a web application developed as part of a team project. This reposito
 The project uses relative units (em, vw, vh) to ensure consistent layout across different screen sizes, providing a flexible and scalable interface.
 
 ## 📸 Screenshot
-![Project Preview](public/img/laptop_.png)
+![Project Preview](./public/img/laptop_.png)
 
 ## ⚙️ Installation & Setup
 
