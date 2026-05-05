@@ -22,7 +22,7 @@
 
 
 ## 📸 Скриншот
-![Прев'ю проекту](public/img/laptop_.png)
+![Project Preview](https://raw.githubusercontent.com/ViktoriaGavrilenko/finostra-frontend/main/finostrafrontend/public/img/laptop_.png)
 
 ## 🚀 Швидкий старт
 
