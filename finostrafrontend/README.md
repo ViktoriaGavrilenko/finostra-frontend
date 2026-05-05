@@ -20,6 +20,8 @@
 
 Хоча проєкт не має адаптивної верстки в класичному розумінні (без media-запитів), усі стилі написані з використанням відносних одиниць (`em`, `vw`, `vh`). Це забезпечує коректне відображення інтерфейсу на різних розмірах екранів — як на великих моніторах, так і на ноутбуках.
 
+## 🎥 Demo
+https://youtu.be/41Zfyz1uQ7Y
 
 ## 📸 Скриншот
 ![Project Preview](https://raw.githubusercontent.com/ViktoriaGavrilenko/finostra-frontend/main/finostrafrontend/public/img/laptop_.png)
