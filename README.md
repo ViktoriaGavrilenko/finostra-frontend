@@ -3,7 +3,7 @@
 Frontend of the Finostra web application — a team-based project built with React.js and modern state management tools.
 
 ## 🔹 Project Description
-Finostra is a web application developed as part of a team project. This repository contains the frontend part, built using React.js with a focus on component-based architecture, scalable structure, and clean UI implementation based on Figma designs.
+Finostra is a web application developed as part of a team project. This repository contains the frontend application, built with React.js, focusing on component-based architecture, scalability, and clean UI implementation based on Figma designs.
 
 ## 👥 Team Collaboration
 - UI/UX Design — created in Figma by the design team  
@@ -39,6 +39,8 @@ cd finostra-frontend
 npm install
 npm start
 ```
+## 🎥 Demo
+https://youtu.be/41Zfyz1uQ7Y
 
 ## 📌 Note
 This project was developed as part of a team collaboration and reflects real-world frontend development practices.
