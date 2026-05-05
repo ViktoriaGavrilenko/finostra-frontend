@@ -1,42 +1,46 @@
-# 🎓 Finostra (Фронтенд дипломного проєкту)
+# Finostra Frontend
 
-Цей репозиторій містить **фронтенд-частину дипломного проєкту** Finostra — вебзастосунку, розробленого командою студентів. Проєкт створено на React.js з використанням сучасних інструментів управління станом та компонентного підходу.
+Frontend of the Finostra web application — a team-based project built with React.js and modern state management tools.
 
-## 👥 Команда
+## 🔹 Project Description
+Finostra is a web application developed as part of a team project. This repository contains the frontend application, built with React.js, focusing on component-based architecture, scalability, and clean UI implementation based on Figma designs.
 
-- 🎨 **UI/UX-дизайн** — розроблений у Figma нашою дизайнерською групою
-- ⚙️ **Бекенд** — реалізований на **Java**
-- 💻 **Фронтенд** — розроблявся мною разом із напарником на **React.js**
+## 👥 Team Collaboration
+- UI/UX Design — created in Figma by the design team  
+- Backend — developed using Java  
+- Frontend — developed collaboratively using React.js  
 
-## 🧰 Використані технології
+## 🚀 Features
+- Component-based architecture
+- State management with Redux Toolkit
+- Integration with backend API
+- Dynamic UI rendering
+- Modular and maintainable code structure
 
-- React.js (функціональні компоненти)
-- CSS-модулі (module.css)
+## 🛠️ Tech Stack
+**Frontend:**
+- React.js
 - Redux Toolkit
-- React hooks: `useState`, `useEffect`, `useContext`, `useDispatch`
-- JavaScript ES6+
+- CSS Modules
+- JavaScript (ES6+)
+- React Hooks (useState, useEffect, useContext, useDispatch)
 
-## 🖥️ Масштабованість інтерфейсу
-
-Хоча проєкт не має адаптивної верстки в класичному розумінні (без media-запитів), усі стилі написані з використанням відносних одиниць (`em`, `vw`, `vh`). Це забезпечує коректне відображення інтерфейсу на різних розмірах екранів — як на великих моніторах, так і на ноутбуках.
+## 📱 UI & Responsiveness
+The project uses relative units (em, vw, vh) to ensure consistent layout across different screen sizes, providing a flexible and scalable interface.
 
 ## 🎥 Demo
 https://youtu.be/41Zfyz1uQ7Y
 
-## 📸 Скриншот
+## 📸 Screenshot
 ![Project Preview](https://raw.githubusercontent.com/ViktoriaGavrilenko/finostra-frontend/main/finostrafrontend/public/img/laptop_.png)
 
-## 🚀 Швидкий старт
+## ⚙️ Installation & Setup
 
 ```bash
-# Клонування репозиторію
-git clone https://github.com/ViktoriaGavrilenko/Finostra_front_diploma.git
-
-# Перехід у папку з фронтендом
-cd Finostra_front_diploma/finostrafrontend
-
-# Встановлення залежностей
+git clone https://github.com/ViktoriaGavrilenko/finostra-frontend.git
+cd finostra-frontend
 npm install
-
-# Запуск застосунку
 npm start
+```
+## 📌 Note
+This project was developed as part of a team collaboration and reflects real-world frontend development practices.
